@@ -39,275 +39,42 @@ Across these projects, I keep coming back to a few recurring themes:
 
 ---
 
-# Venture & Product Builds
 
----
+# Active Builds
 
-## 1. Backed — Digital Asset Platform
+These are the current active builds I am most focused on now.
 
-**Website:** [bbacked.com](https://bbacked.com)  
-**Category:** Digital assets, fintech, financial infrastructure
+## 1. DroidDepot — Humanoid Robot Rental Marketplace
 
-Backed is a digital asset platform focused on bringing financial infrastructure, asset-backed ideas, and crypto-native product concepts into a usable platform experience.
+**Website:** [droiddepot.shop](https://www.droiddepot.shop)  
+**Category:** Robotics, marketplace, rentals, automation
 
-The platform explored how digital assets could connect to rewards, ownership, incentives, and marketplace-style financial utility.
+DroidDepot is a marketplace for humanoid robot rentals, demos, leases, purchase inquiries, provider applications, and deployment assessments.
 
-### What I Built
-
-- Digital asset platform concept and product direction
-- Platform structure for users, assets, incentives, and financial workflows
-- Early architecture for a crypto-native financial product
-- Product thinking around asset-backed utility and user participation
-- Foundation for a broader ecosystem connected to rewards and engagement
-
-### What It Shows
-
-Backed reflects my interest in financial systems that combine product utility, digital ownership, incentives, and platform mechanics.
-
-### Focus Areas
-
-Digital assets, fintech, platform design, incentive systems, financial workflows, early-stage product development.
-
----
-
-## 2. Backed Rewards Application
-
-**Category:** Rewards, loyalty, fintech, user engagement
-
-Backed Rewards was a rewards application connected to the broader Backed ecosystem.
-
-The idea was to create a reward layer that could drive engagement, participation, retention, and user activity across the platform.
+The platform is designed to help customers access humanoid robots without needing to buy them upfront, while helping providers reach customers looking for rentals, demos, leases, and deployments.
 
 ### What I Built
 
-- Rewards application concept
-- User incentive and loyalty flow
-- Reward mechanics connected to platform engagement
-- Product direction for turning user actions into reward value
-- Early thinking around how rewards could support a digital asset ecosystem
+- Humanoid robot rental marketplace
+- Public request flows for rent/demo, lease quotes, purchase inquiries, and deployment assessments
+- Provider application workflow
+- Customer signup, provider signup, and role-based dashboards
+- Admin dashboard for reviewing activity and provider applications
+- Marketplace positioning around access to humanoid robots, not only robot ownership
 
 ### What It Shows
 
-Backed Rewards explored how incentives can become part of the product experience, not just a marketing feature.
+DroidDepot explores how to create access to supply-constrained robotics through a marketplace model instead of waiting for every customer to buy hardware directly.
 
 ### Focus Areas
 
-Rewards systems, loyalty products, incentive design, fintech engagement, user retention.
+Robotics marketplaces, rentals, provider onboarding, deployment workflows, MVP development, two-sided marketplaces.
 
 ---
 
-## 3. Bitesla — Marketplace for AI Agents
-
-**Website:** [bitesla.net](https://bitesla.net)  
-**Category:** AI agents, marketplace, future of work
-
-Bitesla was a marketplace for discovering, listing, and using AI agents.
-
-The platform explored the idea that AI agents could become discoverable digital workers or automation tools, similar to how apps, freelancers, or SaaS tools are discovered today.
-
-### What I Built
-
-- Marketplace concept for AI agents
-- Agent discovery and listing model
-- Product structure for comparing and adopting AI agents
-- Early platform direction around AI-native labor
-- Marketplace thinking around supply, demand, categories, and use cases
-
-### What It Shows
-
-Bitesla was an early exploration of AI agents as a marketplace category before agent marketplaces became a mainstream product idea.
-
-### Focus Areas
-
-AI agents, marketplaces, future of work, automation tools, agent discovery, platform ecosystems.
-
 ---
 
-## 4. Bitesla Developer Tool — AI Automation, n8n Workflows & RAG Chatbots
-
-**Website:** [bitesla.io](https://bitesla.io)  
-**Category:** Developer tools, AI automation, workflow orchestration
-
-Bitesla.io focused on developer tools for AI automation, including n8n workflows, retrieval-augmented generation, and chatbot-based automation.
-
-The goal was to help users and businesses automate workflows by connecting AI, tools, documents, APIs, and business processes.
-
-### What I Built
-
-- AI automation tool concept
-- n8n-based workflow automation patterns
-- RAG chatbot workflows
-- Developer-focused automation structure
-- Product direction for connecting documents, tools, and AI agents
-- Workflow ideas for business process automation
-
-### What It Shows
-
-Bitesla.io reflects my focus on practical AI automation: using AI to execute workflows, not just answer questions.
-
-### Focus Areas
-
-AI automation, n8n, RAG, chatbots, developer tools, workflow orchestration, business automation.
-
----
-
-## 5. Social Platform for Humans & AI Agents
-
-**Category:** Social platform, AI agents, human-agent collaboration
-
-This was a social platform concept where both humans and AI agents could participate.
-
-The idea was to move beyond traditional social media by allowing AI agents to assist, publish, collaborate, respond, and participate in digital workflows alongside people.
-
-### What I Built
-
-- Social platform concept for humans and AI agents
-- Interaction model between users and AI agents
-- Product structure for agent-assisted collaboration
-- Early thinking around AI agents as creators, assistants, and participants
-- Workflow ideas around reducing manual work instead of increasing screen time
-
-### What It Shows
-
-This project explored a future where AI agents are not only tools in the background, but visible participants in user workflows and digital communities.
-
-### Focus Areas
-
-AI social platforms, human-agent interaction, collaboration systems, agent participation, AI-native social workflows.
-
----
-
-## 6. Hiring Platform for Humans & AI Agents
-
-**Category:** Hiring, AI agents, talent marketplace, future of work
-
-This hiring platform was designed for both human professionals and AI agents.
-
-The concept explored how companies could discover, evaluate, and hire a mix of human talent and AI-powered digital workers.
-
-### What I Built
-
-- Hiring marketplace concept for humans and AI agents
-- Job and agent discovery workflows
-- Matching model for human talent and AI agents
-- Platform thinking around AI-augmented teams
-- Product direction for the future of hiring and digital labor
-
-### What It Shows
-
-This build explored how the hiring market changes when AI agents become part of the available workforce.
-
-### Focus Areas
-
-Hiring platforms, AI labor, talent marketplaces, future of work, recruiting automation, agent marketplaces.
-
----
-
-## 7. VoltifyEV — Airbnb for Personal EV Chargers
-
-**Category:** EV infrastructure, marketplace, sustainability
-
-VoltifyEV was a marketplace concept for personal EV charger sharing.
-
-The idea was similar to Airbnb, but for private EV chargers. EV charger owners could make their chargers available, and EV drivers could discover and use nearby charging options.
-
-### What I Built
-
-- Two-sided marketplace concept for EV charger owners and EV drivers
-- Product flow for charger discovery, availability, and booking
-- Marketplace structure for underused personal charging infrastructure
-- Early thinking around trust, location, access, and utilization
-- Product direction connecting mobility, sustainability, and local infrastructure
-
-### What It Shows
-
-VoltifyEV explored how underused private infrastructure can become a shared asset through marketplace design.
-
-### Focus Areas
-
-EV charging, marketplaces, sustainability, mobility infrastructure, local network effects, shared assets.
-
----
-
-## 8. Fusuarance — AI-Powered Insurance Quoting System
-
-**Category:** Insurance, AI automation, quoting workflows
-
-Fusuarance was an AI-powered insurance quoting system designed to automate and improve the insurance quoting workflow.
-
-The platform explored how AI could help structure intake, evaluate risk, reduce manual work, and support faster quote generation.
-
-### What I Built
-
-- AI-assisted insurance quoting workflow
-- Intake-to-quote automation concept
-- Workflow structure for customer information, risk review, and quote generation
-- Early product direction for AI-supported insurance operations
-- Automation ideas for reducing manual underwriting and quoting work
-
-### What It Shows
-
-Fusuarance explored how AI can improve operational workflows in insurance, especially where manual intake, review, and quoting slow down the customer experience.
-
-### Focus Areas
-
-Insurance technology, AI workflows, quoting automation, underwriting support, operational automation.
-
----
-
-## 9. Visual ML Orchestrator
-
-**Category:** Machine learning, workflow orchestration, visual development
-
-The Visual ML Orchestrator was a platform concept for building machine learning workflows visually.
-
-The idea was similar in spirit to visual product builders, but focused on ML pipelines: data, models, evaluation, deployment, and orchestration.
-
-### What I Built
-
-- Visual interface concept for ML workflows
-- Pipeline structure for data, training, evaluation, and deployment
-- Orchestration model for ML workflow steps
-- Product direction for simplifying ML pipeline creation
-- Early thinking around AI-assisted workflow generation for machine learning
-
-### What It Shows
-
-This project explored how machine learning workflows could become easier to design, operate, and explain through visual orchestration.
-
-### Focus Areas
-
-ML orchestration, visual workflow builders, AI-assisted development, model pipelines, automation, developer experience.
-
----
-
-## 10. Multi-Asset Risk Platform
-
-**Category:** Risk management, portfolio analytics, multi-asset systems
-
-The Multi-Asset Risk Platform focused on analyzing portfolios across asset classes such as equities, crypto, rates, commodities, credit, and macro exposures.
-
-The platform explored how market intelligence, portfolio exposure, risk metrics, and action workflows could be connected into one system.
-
-### What I Built
-
-- Multi-asset risk platform concept
-- Portfolio workflow across detection, quantification, simulation, action, and reporting
-- Risk views for asset exposure, stress testing, drawdowns, and market movement
-- Product direction for connecting market signals to portfolio-level risk
-- Early thinking around enterprise-grade risk and portfolio intelligence
-
-### What It Shows
-
-This project reflects my interest in decision systems that connect signals, exposure, risk, and action into one workflow.
-
-### Focus Areas
-
-Risk analytics, portfolio systems, financial intelligence, multi-asset modeling, stress testing, decision support.
-
----
-
-## 11. PatternOS — AI Market Intelligence Platform
+## 2. PatternOS — AI Market Intelligence Platform
 
 **Website:** [patternos.com](https://patternos.com)  
 **Category:** Market intelligence, AI, portfolio risk, financial analytics
@@ -335,31 +102,275 @@ AI market intelligence, portfolio risk, multi-asset analysis, financial data sys
 
 ---
 
-## 12. DroidDepot — Humanoid Robot Rental Marketplace
+---
 
-**Website:** [droiddepot.shop](https://www.droiddepot.shop)  
-**Category:** Robotics, marketplace, rentals, automation
+# Venture & Product Archive
 
-DroidDepot is a marketplace for humanoid robot rentals, demos, leases, purchase inquiries, provider applications, and deployment assessments.
+Earlier venture builds, MVPs, product experiments, and technical platforms from the broader builder journey.
 
-The platform is designed to help customers access humanoid robots without needing to buy them upfront, while helping providers reach customers looking for rentals, demos, leases, and deployments.
+---
+
+## 3. Backed — Digital Asset Platform
+
+**Website:** [bbacked.com](https://bbacked.com)  
+**Category:** Digital assets, fintech, financial infrastructure
+
+Backed is a digital asset platform focused on bringing financial infrastructure, asset-backed ideas, and crypto-native product concepts into a usable platform experience.
+
+The platform explored how digital assets could connect to rewards, ownership, incentives, and marketplace-style financial utility.
 
 ### What I Built
 
-- Humanoid robot rental marketplace
-- Public request flows for rent/demo, lease quotes, purchase inquiries, and deployment assessments
-- Provider application workflow
-- Customer signup, provider signup, and role-based dashboards
-- Admin dashboard for reviewing activity and provider applications
-- Marketplace positioning around access to humanoid robots, not only robot ownership
+- Digital asset platform concept and product direction
+- Platform structure for users, assets, incentives, and financial workflows
+- Early architecture for a crypto-native financial product
+- Product thinking around asset-backed utility and user participation
+- Foundation for a broader ecosystem connected to rewards and engagement
 
 ### What It Shows
 
-DroidDepot explores how to create access to supply-constrained robotics through a marketplace model instead of waiting for every customer to buy hardware directly.
+Backed reflects my interest in financial systems that combine product utility, digital ownership, incentives, and platform mechanics.
 
 ### Focus Areas
 
-Robotics marketplaces, rentals, provider onboarding, deployment workflows, MVP development, two-sided marketplaces.
+Digital assets, fintech, platform design, incentive systems, financial workflows, early-stage product development.
+
+---
+
+## 4. Backed Rewards Application
+
+**Category:** Rewards, loyalty, fintech, user engagement
+
+Backed Rewards was a rewards application connected to the broader Backed ecosystem.
+
+The idea was to create a reward layer that could drive engagement, participation, retention, and user activity across the platform.
+
+### What I Built
+
+- Rewards application concept
+- User incentive and loyalty flow
+- Reward mechanics connected to platform engagement
+- Product direction for turning user actions into reward value
+- Early thinking around how rewards could support a digital asset ecosystem
+
+### What It Shows
+
+Backed Rewards explored how incentives can become part of the product experience, not just a marketing feature.
+
+### Focus Areas
+
+Rewards systems, loyalty products, incentive design, fintech engagement, user retention.
+
+---
+
+## 5. Bitesla — Marketplace for AI Agents
+
+**Website:** [bitesla.net](https://bitesla.net)  
+**Category:** AI agents, marketplace, future of work
+
+Bitesla was a marketplace for discovering, listing, and using AI agents.
+
+The platform explored the idea that AI agents could become discoverable digital workers or automation tools, similar to how apps, freelancers, or SaaS tools are discovered today.
+
+### What I Built
+
+- Marketplace concept for AI agents
+- Agent discovery and listing model
+- Product structure for comparing and adopting AI agents
+- Early platform direction around AI-native labor
+- Marketplace thinking around supply, demand, categories, and use cases
+
+### What It Shows
+
+Bitesla was an early exploration of AI agents as a marketplace category before agent marketplaces became a mainstream product idea.
+
+### Focus Areas
+
+AI agents, marketplaces, future of work, automation tools, agent discovery, platform ecosystems.
+
+---
+
+## 6. Bitesla Developer Tool — AI Automation, n8n Workflows & RAG Chatbots
+
+**Website:** [bitesla.io](https://bitesla.io)  
+**Category:** Developer tools, AI automation, workflow orchestration
+
+Bitesla.io focused on developer tools for AI automation, including n8n workflows, retrieval-augmented generation, and chatbot-based automation.
+
+The goal was to help users and businesses automate workflows by connecting AI, tools, documents, APIs, and business processes.
+
+### What I Built
+
+- AI automation tool concept
+- n8n-based workflow automation patterns
+- RAG chatbot workflows
+- Developer-focused automation structure
+- Product direction for connecting documents, tools, and AI agents
+- Workflow ideas for business process automation
+
+### What It Shows
+
+Bitesla.io reflects my focus on practical AI automation: using AI to execute workflows, not just answer questions.
+
+### Focus Areas
+
+AI automation, n8n, RAG, chatbots, developer tools, workflow orchestration, business automation.
+
+---
+
+## 7. Social Platform for Humans & AI Agents
+
+**Category:** Social platform, AI agents, human-agent collaboration
+
+This was a social platform concept where both humans and AI agents could participate.
+
+The idea was to move beyond traditional social media by allowing AI agents to assist, publish, collaborate, respond, and participate in digital workflows alongside people.
+
+### What I Built
+
+- Social platform concept for humans and AI agents
+- Interaction model between users and AI agents
+- Product structure for agent-assisted collaboration
+- Early thinking around AI agents as creators, assistants, and participants
+- Workflow ideas around reducing manual work instead of increasing screen time
+
+### What It Shows
+
+This project explored a future where AI agents are not only tools in the background, but visible participants in user workflows and digital communities.
+
+### Focus Areas
+
+AI social platforms, human-agent interaction, collaboration systems, agent participation, AI-native social workflows.
+
+---
+
+## 8. Hiring Platform for Humans & AI Agents
+
+**Category:** Hiring, AI agents, talent marketplace, future of work
+
+This hiring platform was designed for both human professionals and AI agents.
+
+The concept explored how companies could discover, evaluate, and hire a mix of human talent and AI-powered digital workers.
+
+### What I Built
+
+- Hiring marketplace concept for humans and AI agents
+- Job and agent discovery workflows
+- Matching model for human talent and AI agents
+- Platform thinking around AI-augmented teams
+- Product direction for the future of hiring and digital labor
+
+### What It Shows
+
+This build explored how the hiring market changes when AI agents become part of the available workforce.
+
+### Focus Areas
+
+Hiring platforms, AI labor, talent marketplaces, future of work, recruiting automation, agent marketplaces.
+
+---
+
+## 9. VoltifyEV — Airbnb for Personal EV Chargers
+
+**Category:** EV infrastructure, marketplace, sustainability
+
+VoltifyEV was a marketplace concept for personal EV charger sharing.
+
+The idea was similar to Airbnb, but for private EV chargers. EV charger owners could make their chargers available, and EV drivers could discover and use nearby charging options.
+
+### What I Built
+
+- Two-sided marketplace concept for EV charger owners and EV drivers
+- Product flow for charger discovery, availability, and booking
+- Marketplace structure for underused personal charging infrastructure
+- Early thinking around trust, location, access, and utilization
+- Product direction connecting mobility, sustainability, and local infrastructure
+
+### What It Shows
+
+VoltifyEV explored how underused private infrastructure can become a shared asset through marketplace design.
+
+### Focus Areas
+
+EV charging, marketplaces, sustainability, mobility infrastructure, local network effects, shared assets.
+
+---
+
+## 10. Fusuarance — AI-Powered Insurance Quoting System
+
+**Category:** Insurance, AI automation, quoting workflows
+
+Fusuarance was an AI-powered insurance quoting system designed to automate and improve the insurance quoting workflow.
+
+The platform explored how AI could help structure intake, evaluate risk, reduce manual work, and support faster quote generation.
+
+### What I Built
+
+- AI-assisted insurance quoting workflow
+- Intake-to-quote automation concept
+- Workflow structure for customer information, risk review, and quote generation
+- Early product direction for AI-supported insurance operations
+- Automation ideas for reducing manual underwriting and quoting work
+
+### What It Shows
+
+Fusuarance explored how AI can improve operational workflows in insurance, especially where manual intake, review, and quoting slow down the customer experience.
+
+### Focus Areas
+
+Insurance technology, AI workflows, quoting automation, underwriting support, operational automation.
+
+---
+
+## 11. Visual ML Orchestrator
+
+**Category:** Machine learning, workflow orchestration, visual development
+
+The Visual ML Orchestrator was a platform concept for building machine learning workflows visually.
+
+The idea was similar in spirit to visual product builders, but focused on ML pipelines: data, models, evaluation, deployment, and orchestration.
+
+### What I Built
+
+- Visual interface concept for ML workflows
+- Pipeline structure for data, training, evaluation, and deployment
+- Orchestration model for ML workflow steps
+- Product direction for simplifying ML pipeline creation
+- Early thinking around AI-assisted workflow generation for machine learning
+
+### What It Shows
+
+This project explored how machine learning workflows could become easier to design, operate, and explain through visual orchestration.
+
+### Focus Areas
+
+ML orchestration, visual workflow builders, AI-assisted development, model pipelines, automation, developer experience.
+
+---
+
+## 12. Multi-Asset Risk Platform
+
+**Category:** Risk management, portfolio analytics, multi-asset systems
+
+The Multi-Asset Risk Platform focused on analyzing portfolios across asset classes such as equities, crypto, rates, commodities, credit, and macro exposures.
+
+The platform explored how market intelligence, portfolio exposure, risk metrics, and action workflows could be connected into one system.
+
+### What I Built
+
+- Multi-asset risk platform concept
+- Portfolio workflow across detection, quantification, simulation, action, and reporting
+- Risk views for asset exposure, stress testing, drawdowns, and market movement
+- Product direction for connecting market signals to portfolio-level risk
+- Early thinking around enterprise-grade risk and portfolio intelligence
+
+### What It Shows
+
+This project reflects my interest in decision systems that connect signals, exposure, risk, and action into one workflow.
+
+### Focus Areas
+
+Risk analytics, portfolio systems, financial intelligence, multi-asset modeling, stress testing, decision support.
 
 ---
 
@@ -412,6 +423,8 @@ This work reflects the infrastructure side of AI: the physical and cloud systems
 ### Focus Areas
 
 AI infrastructure, NVIDIA GPU clusters, Google TPU architecture, high-performance compute, workload placement, cloud strategy.
+
+---
 
 ---
 
